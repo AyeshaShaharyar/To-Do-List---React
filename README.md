@@ -1,16 +1,17 @@
 # To-Do List App
 
-A simple to-do list app built with React. It has a button to add the items. To removethe item from the list, click on the item.
+A simple to-do list app built with React. It has a button to add the items. To remove the item from the list, click on the item.
 
 ## Screenshots
 
-!["Screenshot of]()
+!["Screenshot of To-Do List App](https://github.com/AyeshaShaharyar/To-Do-List---React/blob/main/docs/To-Do%20list.png?raw=true)
+!["Screenshot of To-Do List Items](https://github.com/AyeshaShaharyar/To-Do-List---React/blob/main/docs/To-do%20List%20items.png?raw=true)
 
 ## Technologies Used
 
-React JS
-CSS
-HTML
+- React JS
+- CSS
+- HTML
 
 ### Build Setup
 In the project directory, you can run:
